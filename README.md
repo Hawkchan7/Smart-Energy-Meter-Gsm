@@ -43,5 +43,3 @@ Energy (kWh) = Power (kW) × Time (h)
 - Real-Time Data Analytics
 - Online Billing Portal
 
-## Author
-Internship Project Submission
