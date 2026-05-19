@@ -1,0 +1,20 @@
+SMART ENERGY METER CONNECTIONS
+
+ACS712 Current Sensor:
+VCC -> Arduino 5V
+GND -> Arduino GND
+OUT -> Arduino A0
+
+GSM Module:
+TX -> Arduino Pin 9
+RX -> Arduino Pin 10
+GND -> Arduino GND
+VCC -> External 5V
+
+16x2 LCD Display:
+RS -> Arduino Pin 12
+EN -> Arduino Pin 11
+D4 -> Arduino Pin 5
+D5 -> Arduino Pin 4
+D6 -> Arduino Pin 3
+D7 -> Arduino Pin 2
